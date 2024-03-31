@@ -45,3 +45,15 @@ code {
 .icon-chevron-up {
   border-bottom: 5px solid #000;
 }
+.star-rating {
+  font-size: 24px;
+}
+
+.star {
+  cursor: pointer;
+}
+
+.highlighted {
+  color: gold; /* Change color as desired */
+}
+
